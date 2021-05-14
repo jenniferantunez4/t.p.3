@@ -1,0 +1,38 @@
+[
+  {
+    "titulo": "estudiar",
+    "estado": "en proceso"
+  },
+  {
+    "titulo": "limpiar",
+    "estado": "terminado"
+  },
+  {
+    "titulo": "pedir el cbu al profe Eric y Robert",
+    "estado": "pendiente "
+  },
+  {
+    "titulo": "tomar mate",
+    "estado": "terminado"
+  },
+  {
+    "titulo": "cocinar",
+    "estado": "en proceso"
+  },
+  {
+    "titulo": "hacer dieta",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "mirar alguna serie",
+    "estado": "en proceso"
+  },
+  {
+    "titulo": "manejar",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "cantar",
+    "estado": "pendiente"
+  }
+]
